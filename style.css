@@ -54,7 +54,7 @@ nav {
     max-width: 300px;
     min-width: 50px;
 }
-/* .buttonBox {
+.buttonBox {
     display: flex;
     justify-content: space-evenly;
     width: 70%;
@@ -121,8 +121,7 @@ nav {
 }
 .hide {
     display: none;
-} */
-/*bodySection*/
+} 
 .bodySection {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -133,7 +132,7 @@ nav {
     text-align: center;
     font-family: 'gfont';
 }
-/* .bodySection2 {
+.bodySection2 {
     padding-top: 50px;
     padding-bottom: 50px;
     background-image: url(https://firebasestorage.googleapis.com/v0/b/ojowa-75dc7.appspot.com/o/bg2.jpg?alt=media&token=00216b68-7aa5-40d3-9a3a-2d007dd3cf0f);
@@ -142,7 +141,7 @@ nav {
     background-position: center;
     text-align: center;
     font-family: 'gfont';
-} */
+}
 .textBig {
     font-size: 44px;
     color: white;
